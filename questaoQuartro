@@ -1,0 +1,11 @@
+Primeira visita:
+
+Ligue o primeiro interruptor e deixe-o ligado por um tempo.
+Depois de alguns minutos, desligue o primeiro interruptor e ligue o segundo interruptor.
+Segunda visita:
+
+Entre na sala das lâmpadas.
+Observe as lâmpadas:
+Se uma lâmpada estiver acesa, então é controlada pelo primeiro interruptor.
+Se uma lâmpada estiver apagada e estiver quente, então é controlada pelo segundo interruptor.
+Se uma lâmpada estiver apagada e fria, então é controlada pelo terceiro interruptor.
